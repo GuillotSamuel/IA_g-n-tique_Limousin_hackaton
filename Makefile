@@ -11,7 +11,6 @@ all: build up
 
 build:
 	@echo "$(YELLOW)Building Docker images...$(NC)"
-	cd ./srcs/vite/app && npm run build && cd - 
 	docker-compose -f $(COMPOSE_FILE) build
 
 up:
