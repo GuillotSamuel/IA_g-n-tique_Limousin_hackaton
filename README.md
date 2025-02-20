@@ -1,1 +1,1 @@
-# IA_g-n-tique_Limousin_hackaton
+# IA_genetique_Limousin_hackaton
